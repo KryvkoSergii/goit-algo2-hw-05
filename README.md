@@ -14,6 +14,12 @@ Create a function to check the uniqueness of passwords using a Bloom filter. Thi
 
 4. The function and class should work with large data sets, using minimal memory.
 
+### Prerequisites 
+```bash
+poetry install
+poetry shell
+```
+
 ### Execure task
 ```bash
 poetry run .\app\task1.py
@@ -40,9 +46,15 @@ Create a script to compare the exact unique element count and the count using Hy
 
 4. Compare the methods in terms of execution time.
 
+### Prerequisites 
+```bash
+poetry install
+poetry shell
+```
+
 ### Execure task
 ```bash
-poetry run .\app\task1.py
+poetry run .\app\task2.py
 ```
 ### Result
 ```bash
